@@ -1,4 +1,4 @@
-# LendingClub_EDA
+# Exploratory Data Analysis of LendingClub data
 LendingClub is one of America's leading destinations for online personal loans, usually an ideal method to borrow for a special need or credit card debt consolidation. It is well suited for people with responsible payment records and established financial histories.
 
 LendingClub screens potential borrowers and services the loans once they’re approved. The risk: Investors – not LendingClub – make the final decision based on LendingClub grade, utilizing credit and income data. When a person applies online for a loan with LendingClub, there are two types of decisions taken:
@@ -18,3 +18,5 @@ In a finance industry, one of the main applications of data is to minimize witho
 
 ## Objective 
 Objective is to identify the risky loan applicants at the time of loan application so that such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
+
+Dataset Source : https://www.kaggle.com/wordsforthewise/lending-club
